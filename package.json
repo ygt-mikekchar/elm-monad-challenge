@@ -1,0 +1,16 @@
+{
+  "name": "elm-monad-challenge",
+  "version": "0.0.1",
+  "description": "Setup for doing monad challenge in Elm",
+  "author": "Mike Charlton <mikekchar@gmail.com>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikekchar/elm-monad-challenge"
+  },
+  "dependencies": {
+    "elm": "0.18.x",
+    "elm-test": "0.18.x"
+  },
+  "license": "GPL-3.0"
+}
